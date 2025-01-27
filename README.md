@@ -22,4 +22,4 @@ Feel free to connect with me!
 
 Email: majidmansouri.se@example.com
 LinkedIn: www.linkedin.com/in/majid-mansouri-a41226329a 
-GitHub:https://github.com/JamesWebapplications/Majid-Mansouri-Portfolio
+GitHub: https://github.com/JamesWebapplications/Majid-Mansouri-Portfolio.git
