@@ -1,4 +1,4 @@
-# Majid-Mansouri-Portfolio
+# Markus-Mansouri-Portfolio
 
 Welcome to my portfolio repository! Here, you can find a showcase of my skills, projects, and experiences in software development.
 
